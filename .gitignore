@@ -1,0 +1,13 @@
+#ignore these files
+
+desktop.ini
+*.vcxproj.user
+*.ncb
+*.suo
+
+.vs/
+.svn/
+
+./bin/DEBUG/net6.0/Saves
+
+./bin/release/net6.0/Saves
